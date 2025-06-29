@@ -6,7 +6,7 @@ python: 3.9<br>
 pandas: 1.4.4<br>
 numpy: 1.21.5<br>
 PyTorch: 2.0.0<br>
-## How to Use the Code in Jupyter (iPython) Notebooks:<br>
+## How to Use the Code:<br>
 1.Clone the Repository:<br>
   First, clone the repository to your local machine. Open your terminal or command prompt and run the following command:<br>
   ```https://github.com/YangLX-Coder/mRSubLoc.git```<br>
